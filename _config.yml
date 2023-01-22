@@ -12,7 +12,7 @@ favicon: "logo.png" # name+extension of favicon (which must be put on the root f
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
 
 # theme: no-style-please
-remote_theme: riggraz/no-style-please  # if you are using GitHub Pages
+remote_theme: jaeyeon302/jaeyeon302.github.io  # if you are using GitHub Pages
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
