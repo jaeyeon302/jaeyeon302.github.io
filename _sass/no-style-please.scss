@@ -92,3 +92,12 @@ img {
   display: block;
   margin: 0 auto;
 }
+a{
+  text-decoration-line: none;
+  &:hover{
+    text-decoration-line:underline;
+  }
+  &:visited{
+    color: palevioletred;
+  }
+}
