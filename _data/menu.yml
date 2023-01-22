@@ -2,37 +2,44 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: me
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
-
-  - title: all posts
+      - title: Power electronics engineer
+      - title: Master Candidtate in <a href='https://eepel.snu.ac.kr'>EEPEL</a> 
+                supervised by <a href='https://scholar.google.com/citations?user=TfmGd7AAAAAJ&hl=en'>Seung-ki Sul</a>
+      - title: ok6530@snu.ac.kr
+        url: mailto:ok6530@snu.ac.kr
+  - title: "research & paper"
     post_list:
-      limit: 5
+      limit: 3
+      category: research
+      show_more: true
+      show_more_text: See more researches...
+      show_more_url: research-archive.html
+  - title: "math"
+    post_list:
+      limit: 3
+      category: math
+      show_more: true
+      show_more_text: See more math...something like that
+      show_more_url: math-archive.html
+  - title: project
+    post_list:
+      limit: 3
+      category: project
+      show_more: true
+      show_more_text: See more projects...
+      show_more_url: project-archive.html
+
+
+  - title: posts
+    post_list:
+      limit: 3
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+
 
   - title: rss
     url: feed.xml
-  
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
