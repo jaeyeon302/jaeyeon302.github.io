@@ -4,37 +4,49 @@
 entries:
   - title: me
     entries:
-      - title: Power electronics engineer
-      - title: Master Candidtate in <a href='https://eepel.snu.ac.kr'>EEPEL</a> 
+      - title: Power Electronics MS candidtate in <a href='http://eepel.snu.ac.kr/wordpress'>EEPEL</a> 
                 supervised by <a href='https://scholar.google.com/citations?user=TfmGd7AAAAAJ&hl=en'>Seung-ki Sul</a>
-      - title: ok6530@snu.ac.kr
+      - title: "Email: ok6530@snu.ac.kr"
         url: mailto:ok6530@snu.ac.kr
+      - title: <a href=' https://github.com/jaeyeon302'>Github</a>, <a href='https://www.linkedin.com/in/jaeyeonpark'>LinkedIn</a>
   - title: "research & paper"
     post_list:
-      limit: 3
+      limit: 2
       category: research
       show_more: true
       show_more_text: See more researches...
-      show_more_url: research-archive.html
-  - title: "math"
-    post_list:
-      limit: 3
-      category: math
-      show_more: true
-      show_more_text: See more math...something like that
-      show_more_url: math-archive.html
+      show_more_url: archive-research.html
   - title: project
     post_list:
-      limit: 3
+      limit: 2
       category: project
       show_more: true
       show_more_text: See more projects...
-      show_more_url: project-archive.html
-
-
+      show_more_url: archive-project.html
+  - title: "math"
+    post_list:
+      limit: 0
+      category: math
+      show_more: true
+      show_more_text: See more math...something like that
+      show_more_url: archive-math.html
+  - title: "book"
+    post_list:
+      limit: 0
+      category: book
+      show_more: true
+      show_more_text: See more books...
+      show_more_url: archive-book.html
+  - title: "etc"
+    post_list:
+      limit: 0
+      category: etc
+      show_more: true
+      show_more_text: See 'and other things'...
+      show_more_url: archive-etc.html
   - title: posts
     post_list:
-      limit: 3
+      limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
