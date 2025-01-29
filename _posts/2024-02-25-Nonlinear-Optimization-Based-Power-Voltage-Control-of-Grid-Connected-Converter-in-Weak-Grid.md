@@ -7,6 +7,8 @@ description: Conference, 2024-APEC
 
 
 ## Author
-Gayoung Park, Jaeyeon Park, Shenghui Cui, Seung-Ki Sul
+Gayoung Park, **Jaeyeon Park**, Shenghui Cui, Seung-Ki Sul
 
 
+## Proceeding & Paper
+[PDF](https://ieeexplore.ieee.org/document/10509166)
