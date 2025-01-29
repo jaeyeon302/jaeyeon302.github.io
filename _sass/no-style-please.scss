@@ -6,6 +6,7 @@
     font-style: normal;
 }
 @import url(//fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 // ---------------------------------- //
 
 // -------------- THEME SWITCHER -------------- //
@@ -37,7 +38,7 @@ html { height: 100%; }
 
 body {
   color: black;
-  font-family: 'intelone-mono-font-family-regular', 'Nanum Gothic Coding', monospace;
+  font-family: 'Space Mono','intelone-mono-font-family-regular', 'Nanum Gothic Coding', monospace;
   font-size: 16px;
   line-height: 1.4;
   margin: 0;
