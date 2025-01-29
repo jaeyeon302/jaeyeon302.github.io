@@ -11,4 +11,4 @@ Gayoung Park, **Jaeyeon Park**, Shenghui Cui, Seung-Ki Sul
 
 
 ## Proceeding & Paper
-[PDF](https://ieeexplore.ieee.org/document/10509166)
+[IEEE Explore](https://ieeexplore.ieee.org/document/10509166)
