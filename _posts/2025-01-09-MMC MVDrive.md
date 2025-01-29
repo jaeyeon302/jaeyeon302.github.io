@@ -12,7 +12,8 @@ published: true
 My biggest university-industry project is finally finished!!
 
 **For 3 years,**
-Modular Multilevel Converter has been designed and manufactured for variable frequency drive (VFD) application for electric ship.
+Modular Multilevel Converter has been developed for variable frequency drive (VFD) application.
+
 I have been developed entire control algorithms, including motor drive, balancing control, and current control.
 It was a great journey to have had the invaluable guidance of professor [shenghui cui](https://www.linkedin.com/in/shcui/) throughout this project.
 This work is sponsored by Korea Shipbuilding and Offshore Engineering, HD Hyundai, and coworked with Kyungpook National University.
