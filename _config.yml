@@ -18,7 +18,7 @@ remote_theme: jaeyeon302/jaeyeon302.github.io  # if you are using GitHub Pages
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
-  back_home_text: "<--" # customize text for homepage link in post layout
+  back_home_text: "←" # customize text for homepage link in post layout
   date_format_YM: "%Y-%m"
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description in home page
