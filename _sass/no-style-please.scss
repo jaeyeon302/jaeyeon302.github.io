@@ -40,16 +40,25 @@ html { height: 100%; }
 
 body {
   color: black;
-  font-family: 'Space Mono','intelone-mono-font-family-regular', 'Nanum Gothic Coding', monospace;
+  /*font-family: 'Space Mono','intelone-mono-font-family-regular', 'Nanum Gothic Coding', monospace;*/
   /*font-family: 'Sanchez','intelone-mono-font-family-regular', 'Nanum Gothic Coding', monospace;*/
+  font-family: 'Noto Serif KR', 'Serif';
   font-size: 16px;
+  text-align: justify;
   line-height: 1.5;
   margin: 0;
   min-height: 100%;
   overflow-wrap: break-word;
 }
+
+header > h1 {
+  font-family: "Abril Fatface", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 article{
-  line-height: 1.6;
+  line-height: 1.7;
 }
 
 .post-meta { text-align: right; }
@@ -58,7 +67,7 @@ h2, h3, h4, h5, h6 { margin-top: 3rem; }
 
 hr { margin: 2rem 0; }
 
-p { margin: 1rem 0; }
+p { margin: 0; margin-bottom: 2em }
 
 li { margin: 0.4rem 0; }
 
@@ -68,6 +77,19 @@ li { margin: 0.4rem 0; }
   max-width: 700px;
   margin: 0 auto;
   padding: 4rem 2rem;
+}
+
+.w > ul > ul{
+  padding-inline-start: 0px;
+}
+
+.w > ul > li{
+    text-transform: capitalize;
+    font-weight:bold;
+}
+
+.w > ul > ul > li:last-child{
+    padding-bottom:1em;
 }
 
 hr {
