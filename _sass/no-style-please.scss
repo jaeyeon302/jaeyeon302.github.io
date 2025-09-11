@@ -78,9 +78,14 @@ li { margin: 0.4rem 0; }
   margin: 0 auto;
   padding: 4rem 2rem;
 }
+.w > ul {
+    padding-inline-start: 0px;
+    list-style: none;
+}
 
 .w > ul > ul{
-  padding-inline-start: 0px;
+    padding-inline-start: 0px;
+    list-style: none;
 }
 
 .w > ul > li{
