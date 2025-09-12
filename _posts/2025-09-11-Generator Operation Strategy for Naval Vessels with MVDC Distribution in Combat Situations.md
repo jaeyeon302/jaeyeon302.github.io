@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Generator Operation Strategy for Naval Vessels with MVDC Distribution in Combat Situations
 category: research
 published: true
 description: Conference, 2025 IEEE Electric Ship Technologies Symposium (ESTS)
