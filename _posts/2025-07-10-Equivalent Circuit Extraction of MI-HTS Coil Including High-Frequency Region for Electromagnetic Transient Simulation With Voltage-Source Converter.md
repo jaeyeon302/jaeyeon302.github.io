@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Equivalent Circuit Extraction of MI-HTS Coil Including High-Frequency Region for Electromagnetic Transient Simulation With Voltage-Source Converter
 category: research
 published: true
 description: Journal, IEEE Transactions on Applied Superconductivity
