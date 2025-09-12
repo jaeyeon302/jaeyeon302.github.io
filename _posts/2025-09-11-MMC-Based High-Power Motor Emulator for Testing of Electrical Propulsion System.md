@@ -1,5 +1,6 @@
 ---
 layout: post
+title: MMC-Based High-Power Motor Emulator for Testing of Electrical Propulsion System
 category: research
 published: true
 description: Conference, 2025 IEEE Electric Ship Technologies Symposium (ESTS)
