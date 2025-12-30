@@ -3,7 +3,7 @@ layout: post
 title: Partial Power-Hardware-in-the-Loop Test for In-Situ Dynamic and Steady-State Validation of a Single Submodule in a Megawatt-Scale MMC
 category: research
 published: true
-description: IEEE Transactions on Power Electronics
+description: Journal, IEEE Transactions on Power Electronics
 ---
 
 
