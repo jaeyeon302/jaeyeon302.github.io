@@ -91,6 +91,7 @@ li { margin: 0.4rem 0; }
 .w > ul > li{
     text-transform: capitalize;
     font-weight:bold;
+    padding-bottom:0.25em;
 }
 
 .w > ul > ul > li:last-child{
@@ -98,6 +99,11 @@ li { margin: 0.4rem 0; }
 }
 .w > ul > li > a{
     font-weight:normal;
+}
+span.post_desc{
+    font-weight:normal;
+    font-style:italic;
+    font-size:smaller;
 }
 
 hr {
