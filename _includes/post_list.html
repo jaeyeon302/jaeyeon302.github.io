@@ -17,6 +17,7 @@
           
             <span>{{- post.date | date: site.theme_config.date_format_YM -}}</span>
             <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            <span class="post_desc">, {{post.description}}</span>
           
         </li>
     {%- endfor -%}
