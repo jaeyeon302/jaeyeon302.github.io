@@ -2,7 +2,7 @@
 layout: post
 category: research
 published: true
-description: Conference, 2024-APEC
+description: Conference, 2024 IEEE Applied Power Electronics Conference and Exposition (APEC)
 ---
 
 
