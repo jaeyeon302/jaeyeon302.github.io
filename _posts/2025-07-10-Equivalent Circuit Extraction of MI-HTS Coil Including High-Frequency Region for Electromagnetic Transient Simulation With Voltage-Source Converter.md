@@ -5,7 +5,7 @@ category: research
 published: true
 description: Journal, IEEE Transactions on Applied Superconductivity
 ---
-
+J. Park et al., "Equivalent Circuit Extraction of MI-HTS Coil Including High-Frequency Region for Electromagnetic Transient Simulation With Voltage-Source Converter," in IEEE Transactions on Applied Superconductivity, vol. 35, no. 7, pp. 1-11, Oct. 2025, Art no. 3800911, doi: 10.1109/TASC.2025.3587992.
 
 ## Author
 **Jaeyeon Park**, Jisun Ham, Junyeol Maeng, Chaemin Im, Dongsu Seo, Seungyong Hahn, Shenghui Cui
