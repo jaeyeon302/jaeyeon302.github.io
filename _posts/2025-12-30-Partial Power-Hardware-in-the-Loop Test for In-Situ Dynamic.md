@@ -5,7 +5,7 @@ category: research
 published: true
 description: Journal, IEEE Transactions on Power Electronics
 ---
-J. Park, D. Kim, S. Lee, J. -J. Jung, S. -K. Sul and S. Cui, "Partial Power-Hardware-in-the-Loop Test for In-Situ Dynamic and Steady-State Validation of a Single Submodule in a Megawatt-Scale MMC," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2025.3642797.
+J. Park, D. Kim, S. Lee, J. -J. Jung, S. -K. Sul and S. Cui, "Partial Power-Hardware-in-the-Loop Test for In-Situ Dynamic and Steady-State Validation of a Single Submodule in a Megawatt-Scale MMC," in _IEEE Transactions on Power Electronics_, doi: 10.1109/TPEL.2025.3642797.
 
 ## Author
 **Jaeyeon Park**, Dongjoon Kim, Seungyong Lee, Jae-Jung Jung, Seung-Ki Sul, Shenghui Cui
