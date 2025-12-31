@@ -5,7 +5,7 @@ category: research
 published: true
 description: Conference, 2025 IEEE Electric Ship Technologies Symposium (ESTS)
 ---
-
+J. Park et al., "MMC-Based High-Power Motor Emulator for Testing of Electrical Propulsion System," 2025 IEEE Electric Ship Technologies Symposium (ESTS), Alexandria, VA, USA, 2025, pp. 162-169, doi: 10.1109/ESTS62818.2025.11152450.
 
 ## Author
 **Jaeyeon Park**, Jaekeun Lee, Dongjoon Kim, Seungjun Lee, Seongmin Moon, Jaesang Yoo, Sanggi Ko, Shenghui Cui
