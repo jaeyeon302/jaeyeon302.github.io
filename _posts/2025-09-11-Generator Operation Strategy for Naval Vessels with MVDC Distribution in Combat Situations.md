@@ -5,7 +5,7 @@ category: research
 published: true
 description: Conference, 2025 IEEE Electric Ship Technologies Symposium (ESTS)
 ---
-S. Moon, J. Park, D. Kim and S. Cui, "Generator Operation Strategy for Naval Vessels with MVDC Distribution in Combat Situations," 2025 IEEE Electric Ship Technologies Symposium (ESTS), Alexandria, VA, USA, 2025, pp. 149-153, doi: 10.1109/ESTS62818.2025.11152412.
+S. Moon, J. Park, D. Kim and S. Cui, "Generator Operation Strategy for Naval Vessels with MVDC Distribution in Combat Situations," _2025 IEEE Electric Ship Technologies Symposium (ESTS)_, Alexandria, VA, USA, 2025, pp. 149-153, doi: 10.1109/ESTS62818.2025.11152412.
 
 ## Author
 Seongmin Moon, **Jaeyeon Park**, Dongjoon Kim, Shenghui Cui
