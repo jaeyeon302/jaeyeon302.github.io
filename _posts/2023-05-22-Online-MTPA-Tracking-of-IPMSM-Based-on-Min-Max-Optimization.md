@@ -2,7 +2,7 @@
 layout: post
 category: research
 published: true
-description: Conference, ICPE 2023-ECCE Asia
+description: Conference, 2023 11th International Conference on Power Electronics and ECCE Asia (ICPE 2023 - ECCE Asia)
 ---
 [IEEE Xplore](https://ieeexplore.ieee.org/document/10213954)
 
