@@ -7,7 +7,7 @@ published: true
 ---
 
 
-# Successful completion of 3-year MMC project. 
+## Successful completion of 3-year MMC project. 
 
 My biggest university-industry project is finally finished!!
 
