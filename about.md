@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me (Korean.)
+title: About Me (Ko.)
 ---
 _If you want to see this page in English, plesae refer [it](https://www.jaeyeonpark.kr/about_en.html)_.
 
