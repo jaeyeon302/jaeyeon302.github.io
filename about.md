@@ -23,10 +23,11 @@ Modular Multilevel Converter 제어, System modeling, Embedded system
 2년간 영구자석 동기전동기와 관련하여 최소동손운전 및 약자속 운전 연구기법에 관해 연구를 진행했고,
 아래 2개의 학회 논문과 석사학위 논문을 작성하였습니다.  
 
-1. **J. Park**, H. -J. Cho, J. Yun and S. -K. Sul, “Online MTPA Tracking of IPMSM Based on Min-Max Optimization,” _2023 11th International Conference on Power Electronics and ECCE Asia (ICPE 2023 - ECCE Asia)_, Jeju Island, Korea, Republic of, 2023, pp. 199-204, doi: [10.23919/ICPE2023-ECCEAsia54778.2023.10213954](https://ieeexplore.ieee.org/document/10213954).  
-2. **J. Park**, H. -J. Cho, H. Kim and S. -K. Sul, “Online Torque Control of IPMSM for Flux Weakening Operation Using Sequential Quadratic Programming,” _2023 IEEE Energy Conversion Congress and Exposition (ECCE)_, Nashville, TN, USA, 2023, pp. 4750-4755, doi: [10.1109/ECCE53617.2023.10362007](https://ieeexplore.ieee.org/document/10362007).  
-3. **Jaeyeon Park**. "Real-Time Torque Control of PMSM under Flux Weakening Operation Based on Nonlinear Optimization," 2023, MS Thesis, Department of Electrical and Computer Engineering, Seoul National University.  
-
+<div class="my-cite">
+- **J. Park**, H. -J. Cho, J. Yun and S. -K. Sul, “Online MTPA Tracking of IPMSM Based on Min-Max Optimization,” _2023 11th International Conference on Power Electronics and ECCE Asia (ICPE 2023 - ECCE Asia)_, Jeju Island, Korea, Republic of, 2023, pp. 199-204, doi: [10.23919/ICPE2023-ECCEAsia54778.2023.10213954](https://ieeexplore.ieee.org/document/10213954).
+- **J. Park**, H. -J. Cho, H. Kim and S. -K. Sul, “Online Torque Control of IPMSM for Flux Weakening Operation Using Sequential Quadratic Programming,” _2023 IEEE Energy Conversion Congress and Exposition (ECCE)_, Nashville, TN, USA, 2023, pp. 4750-4755, doi: [10.1109/ECCE53617.2023.10362007](https://ieeexplore.ieee.org/document/10362007).
+- **Jaeyeon Park**. "Real-Time Torque Control of PMSM under Flux Weakening Operation Based on Nonlinear Optimization," 2023, MS Thesis, Department of Electrical and Computer Engineering, Seoul National University.  
+</div>
 
 석사학위기간 동안 mathematical programming, optimization theory, modern control theory를 주로 공부하였고,
 이를 바탕으로 전동기 제어에 최적화 이론을 접목시키는 연구에 관심이 많았습니다.
@@ -35,7 +36,7 @@ Modular Multilevel Converter 제어, System modeling, Embedded system
 
 이후 비슷한 개념을 계통연계형컨버터에도 적용시켜 전압제어를 수행하는 연구를 진행했고, 아래 1개의 학회논문을 작성하였습니다.  
 
-4. G. Park, **J. Park**, S. Cui and S. -K. Sul, “Nonlinear Optimization-Based Power-Voltage Control of Grid-Connected Converter in Weak Grid,” _2024 IEEE Applied Power Electronics Conference and Exposition (APEC)_, Long Beach, CA, USA, 2024, pp. 228-233, doi: [10.1109/APEC48139.2024.10509166](https://ieeexplore.ieee.org/document/10509166).  
+- G. Park, **J. Park**, S. Cui and S. -K. Sul, “Nonlinear Optimization-Based Power-Voltage Control of Grid-Connected Converter in Weak Grid,” _2024 IEEE Applied Power Electronics Conference and Exposition (APEC)_, Long Beach, CA, USA, 2024, pp. 228-233, doi: [10.1109/APEC48139.2024.10509166](https://ieeexplore.ieee.org/document/10509166).  
 
 
 ### EtherCAT: Ethernet-based Fieldbus System
