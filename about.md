@@ -6,8 +6,8 @@ _If you want to see this page in English, plesae refer [it](https://www.jaeyeonp
 
 안녕하세요. 박재연입니다.  
 
-저는 서울대학교 설승기 교수님 연구실에 석사과정으로 진학해 Motor Drive를 주제로 전력전자 연구를 시작했습니다.  
-이후 서울대학교 최성휘 교수님 연구실에서 박사과정에 진학해
+저는 서울대학교 설승기 교수님 연구실에 석사과정으로 진학해 Motor Drive를 주제로 전력전자 연구를 시작했습니다.
+이후, 서울대학교 최성휘 교수님 연구실에서 박사과정에 진학해
 Modular Multilevel Converter 제어, System modeling, Embedded system 
 최적화를 주제로 삼아 전력전자 연구를 진행하고 있습니다.
 
@@ -35,7 +35,7 @@ Modular Multilevel Converter 제어, System modeling, Embedded system
 - G. Park, **J. Park**, S. Cui and S. -K. Sul, “Nonlinear Optimization-Based Power-Voltage Control of Grid-Connected Converter in Weak Grid,” _2024 IEEE Applied Power Electronics Conference and Exposition (APEC)_, Long Beach, CA, USA, 2024, pp. 228-233, doi: [10.1109/APEC48139.2024.10509166](https://ieeexplore.ieee.org/document/10509166).
 
 ### EtherCAT: Ethernet-based Fieldbus System
-한편, 석사 2년 및 박사과정 1년간 `HD현대 한국조선해양`과 산학과제를 수행하며,
+한편, 석사 2년 및 박사과정 1년간 HD현대 한국조선해양과 산학과제를 수행하며,
 Modular Multilevel Converter (MMC) 기반 Medium-Voltage Motor Drive 를 개발하였습니다.
 이때, MMC 제어를 위한 제어 시스템 개발을 위해 EtherCAT 기반 제어시스템을 구축하였습니다.
 - **J. Park**, D. Kim, S. Cui and S. Sul, "Design and Implementation of PC-based Realtime Control System with EtherCAT Network"  in _Power Electronics Conference_, THE KOREAN INSTITUTE OF POWER ELECTRONICS, 2022, pp. 16-18.
@@ -48,7 +48,7 @@ Modular Multilevel Converter (MMC) 기반 Medium-Voltage Motor Drive 를 개발�
 ### System Modeling
 박사과정 동안 [한승용](https://ieeexplore.ieee.org/author/37304994700) 교수님 연구실과 협업할 기회가 있어
 Metal-insulated High-Temperature Superconductor (MI-HTS)를 전력전자컨버터로 제어할 수 있는 기회가 있었습니다.
-이때, MI-HTS를 `PLECS`시뮬레이션 프로그램과 같은 전자기과도현상 시뮬레이션으로 모의하기 위해서 등가회로로 모델링하는 연구를 진행했습니다.  
+이때, MI-HTS를 PLECS시뮬레이션 프로그램과 같은 전자기과도현상 시뮬레이션으로 모의하기 위해서 등가회로로 모델링하는 연구를 진행했습니다.  
 - **J. Park** et al., “Equivalent Circuit Extraction of MI-HTS Coil Including High-Frequency Region for Electromagnetic Transient Simulation With Voltage-Source Converter,” in _IEEE Transactions on Applied Superconductivity_, vol. 35, no. 7, pp. 1-11, Oct. 2025, Art no. 3800911, doi: [10.1109/TASC.2025.3587992](https://ieeexplore.ieee.org/document/11077368).
 
 컨버터 모델링과 관련하여, [윤종훈](https://ieeexplore.ieee.org/author/37088461102) 박사님과 
@@ -63,7 +63,7 @@ Supercapacito를 기반으로 한 E-STATCOM 제어기법이 연구된 바 있는
 
 
 ### Modular Multilevel Converter
-`HD현대 한국조선해양`과 산학과제 수행하면서 MMC의 단위 전력변환장치인 Submodule을 시험하는 설비를 개발하였습니다.
+HD현대 한국조선해양과 산학과제 수행하면서 MMC의 단위 전력변환장치인 Submodule을 시험하는 설비를 개발하였습니다.
 Real-time Simulator와 Power Amplifier, Replica Controller를 결합해 Submodule이 실제 MMC에 장착되어 겪는 
 동일한 부하 테스트 조건을 만들어주고, 다양한 운전 시나리오를 검증할 수 있는 체계를 개발하였습니다.
 - **J. Park**, D. Kim, S. Lee, J. -J. Jung, S. -K. Sul and S. Cui, “Partial Power-Hardware-in-the-Loop Test for In-Situ Dynamic and Steady-State Validation of a Single Submodule in a Megawatt-Scale MMC,” in _IEEE Transactions on Power Electronics_, doi: [10.1109/TPEL.2025.3642797](https://ieeexplore.ieee.org/document/11297165).
