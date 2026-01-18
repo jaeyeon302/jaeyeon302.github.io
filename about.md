@@ -12,7 +12,7 @@ Modular Multilevel Converter 제어, System modeling, Embedded system
 최적화를 주제로 삼아 전력전자 연구를 진행하고 있습니다.
 
 26년 1월 기준, 1 저자로서 저널 2편, 학회 4편을 작성하였고, 
-공동저자로서 저널 1편, 학회 7편에 참여하였습니다.  
+공동저자로서 저널 2편, 학회 7편에 참여하였습니다.  
 
 아래의 산학과제에 주로 참여하고 있습니다.  
 
@@ -85,6 +85,7 @@ Real-time Simulator와 Power Amplifier, Replica Controller를 결합해 Submodul
 
 Medium-voltage dc 배전을 사용하는 차세대 전기추진함정에서 축발전기를 통해 Start-up 시간을 단축할 수 있는 
 연구를 진행했습니다.  
+
 
 
 
